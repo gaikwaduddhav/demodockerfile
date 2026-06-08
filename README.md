@@ -1,2 +1,0 @@
-# demodockerfile
-Learning Docker build
